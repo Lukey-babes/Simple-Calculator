@@ -149,14 +149,9 @@ namespace Simple_Calculator
 
         private void PressedKey(object sender, KeyPressEventArgs e)
         {
-            Button pressed = digit0;
-            // pressed.PerformClick();
+            Button pressed = null;
             char.TryParse(e.KeyChar.ToString(), out char pressedKey);
-            if(e.KeyChar.Equals(Keys.Enter))
-            {
-                textBox1.Text = "enter";
-                return;
-            }
+
             for (int i = 0; i < this.Controls.Count; i++)
             {
                 if (this.Controls[i].AccessibleDescription == pressedKey.ToString() ||
