@@ -1,0 +1,10 @@
+C:\Users\burbi\source\repos\Simple Calculator\bin\Release\Simple Calculator.exe.config
+C:\Users\burbi\source\repos\Simple Calculator\bin\Release\Simple Calculator.exe
+C:\Users\burbi\source\repos\Simple Calculator\bin\Release\Simple Calculator.pdb
+C:\Users\burbi\source\repos\Simple Calculator\obj\Release\Simple Calculator.csprojAssemblyReference.cache
+C:\Users\burbi\source\repos\Simple Calculator\obj\Release\Simple_Calculator.Form1.resources
+C:\Users\burbi\source\repos\Simple Calculator\obj\Release\Simple_Calculator.Properties.Resources.resources
+C:\Users\burbi\source\repos\Simple Calculator\obj\Release\Simple Calculator.csproj.GenerateResource.cache
+C:\Users\burbi\source\repos\Simple Calculator\obj\Release\Simple Calculator.csproj.CoreCompileInputs.cache
+C:\Users\burbi\source\repos\Simple Calculator\obj\Release\Simple Calculator.exe
+C:\Users\burbi\source\repos\Simple Calculator\obj\Release\Simple Calculator.pdb
